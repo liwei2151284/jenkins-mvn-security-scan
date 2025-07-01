@@ -65,4 +65,4 @@ jf docker push acme.jfrog.io/alex-docker/jas-demo:v1 --build-name=docker-app --b
 jf rt bp docker-app 1
 ```
 # security-demo
-1
+12
